@@ -1,4 +1,4 @@
-name = input("what is your has?")
+name = input("what is your name?")
 
-print("Hi boy", name)
+print("Hi dear", name)
 print("Your name has", len(name), "characters in total")
